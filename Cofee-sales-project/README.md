@@ -62,7 +62,5 @@ It includes dynamic visuals and filters to analyze:
 
 - **📆 Weekday vs Weekend Trends**
 
----
- --- ## Inspiration by and guided by - https://www.youtube.com/watch?v=zMrmSctNCbE&t=399s&ab_channel=DataTutorials
 
  **Subashini Pallavi**   
