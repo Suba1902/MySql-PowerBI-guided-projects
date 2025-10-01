@@ -60,7 +60,6 @@ Now that I’ve got the hang of it, I’m planning to:
 
 ---
 
-## Credit https://www.youtube.com/watch?v=pixlHHe_lNQ&ab_channel=AlexTheAnalyst
 
 
 > This dataset is a sample, used for practice and learning.
