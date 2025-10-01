@@ -1,4 +1,4 @@
-# Beginner Power BI Project – Data Professional Survey Dashboard
+# Power BI Project – Data Professional Survey Dashboard
 
 Hey there!   
 This is my **first Power BI guided project** where I learned how to create a clean, interactive dashboard using a survey dataset filled by data professionals.
